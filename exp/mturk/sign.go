@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha1"
 	"encoding/base64"
-	"github.com/AdRoll/goamz/aws"
+	"gopkg.in/bulletind/goamz.v1/aws"
 )
 
 var b64 = base64.StdEncoding

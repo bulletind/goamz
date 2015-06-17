@@ -7,7 +7,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/AdRoll/goamz/dynamodb/dynamizer"
+	"gopkg.in/bulletind/goamz.v1/dynamodb/dynamizer"
 	simplejson "github.com/bitly/go-simplejson"
 )
 

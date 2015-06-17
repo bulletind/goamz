@@ -30,7 +30,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AdRoll/goamz/aws"
+	"gopkg.in/bulletind/goamz.v1/aws"
 )
 
 const debug = false

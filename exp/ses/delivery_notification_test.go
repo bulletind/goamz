@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"gopkg.in/check.v1"
 
-	"github.com/AdRoll/goamz/exp/ses"
+	"gopkg.in/bulletind/goamz.v1/exp/ses"
 )
 
 func (s *S) TestSNSBounceNotificationUnmarshalling(c *check.C) {

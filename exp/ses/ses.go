@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AdRoll/goamz/aws"
+	"gopkg.in/bulletind/goamz.v1/aws"
 )
 
 const MAX_RECIPIENTS_PER_REQUEST = 50

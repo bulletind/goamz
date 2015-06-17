@@ -1,8 +1,8 @@
 package elb_test
 
 import (
-	"github.com/AdRoll/goamz/aws"
-	"github.com/AdRoll/goamz/elb"
+	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/bulletind/goamz.v1/elb"
 	"gopkg.in/check.v1"
 	"time"
 )

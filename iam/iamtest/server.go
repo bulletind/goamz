@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
-	"github.com/AdRoll/goamz/iam"
+	"gopkg.in/bulletind/goamz.v1/iam"
 	"net"
 	"net/http"
 	"strings"

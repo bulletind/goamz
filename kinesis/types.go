@@ -2,7 +2,7 @@ package kinesis
 
 import (
 	"fmt"
-	"github.com/AdRoll/goamz/aws"
+	"gopkg.in/bulletind/goamz.v1/aws"
 )
 
 type ShardIteratorType string

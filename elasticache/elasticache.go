@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/AdRoll/goamz/aws"
+	"gopkg.in/bulletind/goamz.v1/aws"
 )
 
 var (
