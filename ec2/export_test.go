@@ -1,7 +1,7 @@
 package ec2
 
 import (
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"time"
 )
 

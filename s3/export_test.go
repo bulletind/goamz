@@ -1,7 +1,7 @@
 package s3
 
 import (
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 )
 
 var originalStrategy = attempts

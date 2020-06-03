@@ -1,7 +1,7 @@
 #GoLang AWS Cloudwatch
 
 ## Installation
-Please refer to the project's main page at [https://gopkg.in/bulletind/goamz.v1](https://gopkg.in/bulletind/goamz.v1) for instructions about how to install.
+Please refer to the project's main page at [https://gopkg.in/capptions/goamz.v1](https://gopkg.in/capptions/goamz.v1) for instructions about how to install.
 
 ## Available methods
 
@@ -30,8 +30,8 @@ import (
     "fmt"
     "time"
     "os"
-    "gopkg.in/bulletind/goamz.v1/aws"
-    "gopkg.in/bulletind/goamz.v1/cloudwatch"
+    "gopkg.in/capptions/goamz.v1/aws"
+    "gopkg.in/capptions/goamz.v1/cloudwatch"
 )
 
 func test_get_metric_statistics() {
@@ -78,8 +78,8 @@ import (
     "fmt"
     "time"
     "os"
-    "gopkg.in/bulletind/goamz.v1/aws"
-    "gopkg.in/bulletind/goamz.v1/cloudwatch"
+    "gopkg.in/capptions/goamz.v1/aws"
+    "gopkg.in/capptions/goamz.v1/cloudwatch"
 )
 
 func test_list_metrics() {

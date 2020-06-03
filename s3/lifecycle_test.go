@@ -2,7 +2,7 @@ package s3_test
 
 import (
 	"encoding/xml"
-	"gopkg.in/bulletind/goamz.v1/s3"
+	"gopkg.in/capptions/goamz.v1/s3"
 	"gopkg.in/check.v1"
 	"io/ioutil"
 	"net/http"

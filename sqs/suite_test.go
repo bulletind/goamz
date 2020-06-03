@@ -3,7 +3,7 @@ package sqs
 import (
 	"flag"
 	"fmt"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"gopkg.in/check.v1"
 	"net/http"
 	"net/url"

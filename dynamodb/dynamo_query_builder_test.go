@@ -3,8 +3,8 @@ package dynamodb
 import (
 	"bytes"
 	"encoding/json"
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/dynamodb/dynamizer"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/dynamodb/dynamizer"
 	"reflect"
 	"testing"
 )

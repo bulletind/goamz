@@ -10,7 +10,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"gopkg.in/bulletind/goamz.v1/kinesis"
+	"gopkg.in/capptions/goamz.v1/kinesis"
 	"path/filepath"
 	"reflect"
 	"runtime"

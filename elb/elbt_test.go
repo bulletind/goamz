@@ -1,9 +1,9 @@
 package elb_test
 
 import (
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/elb"
-	"gopkg.in/bulletind/goamz.v1/elb/elbtest"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/elb"
+	"gopkg.in/capptions/goamz.v1/elb/elbtest"
 	"gopkg.in/check.v1"
 )
 

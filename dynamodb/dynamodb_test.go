@@ -2,7 +2,7 @@ package dynamodb
 
 import (
 	"flag"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"gopkg.in/check.v1"
 	"testing"
 	"time"

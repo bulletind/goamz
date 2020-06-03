@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"io/ioutil"
 	"net/http"
 	"time"

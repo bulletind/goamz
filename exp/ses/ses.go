@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 )
 
 const MAX_RECIPIENTS_PER_REQUEST = 50

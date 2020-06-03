@@ -1,8 +1,8 @@
 package autoscaling
 
 import (
-	"gopkg.in/bulletind/goamz.v1/autoscaling/astest"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/autoscaling/astest"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"testing"
 )
 

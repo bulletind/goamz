@@ -1,7 +1,7 @@
 //
 // sts: This package provides types and functions to interact with the AWS STS API
 //
-// Depends on https://gopkg.in/bulletind/goamz.v1
+// Depends on https://gopkg.in/capptions/goamz.v1
 //
 
 package sts
@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 )
 
 // The STS type encapsulates operations within a specific EC2 region.

@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"net/url"
 	"strconv"
 	"strings"

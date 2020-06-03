@@ -22,7 +22,7 @@ package sdb
 
 import (
 	"encoding/xml"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"log"
 	"net/http"
 	"net/http/httputil"

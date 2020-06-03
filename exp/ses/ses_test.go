@@ -4,9 +4,9 @@ import (
 	"gopkg.in/check.v1"
 	"testing"
 
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/exp/ses"
-	"gopkg.in/bulletind/goamz.v1/testutil"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/exp/ses"
+	"gopkg.in/capptions/goamz.v1/testutil"
 )
 
 func Test(t *testing.T) {

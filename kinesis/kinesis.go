@@ -2,7 +2,7 @@ package kinesis
 
 import (
 	"encoding/json"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"io/ioutil"
 	"log"
 	"net/http"

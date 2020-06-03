@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 )
 
 const debug = false

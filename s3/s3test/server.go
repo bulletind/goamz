@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"encoding/xml"
 	"fmt"
-	"gopkg.in/bulletind/goamz.v1/s3"
+	"gopkg.in/capptions/goamz.v1/s3"
 	"io"
 	"io/ioutil"
 	"log"

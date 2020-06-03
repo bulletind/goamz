@@ -2,9 +2,9 @@ package elb_test
 
 import (
 	"flag"
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/ec2"
-	"gopkg.in/bulletind/goamz.v1/elb"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/ec2"
+	"gopkg.in/capptions/goamz.v1/elb"
 	"gopkg.in/check.v1"
 )
 

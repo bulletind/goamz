@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"gopkg.in/bulletind/goamz.v1/dynamodb/dynamizer"
+	"gopkg.in/capptions/goamz.v1/dynamodb/dynamizer"
 )
 
 // Fake error for use with the retry strategy. Any keys returned in the

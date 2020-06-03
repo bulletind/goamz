@@ -1,9 +1,9 @@
 package ec2_test
 
 import (
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/ec2"
-	"gopkg.in/bulletind/goamz.v1/testutil"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/ec2"
+	"gopkg.in/capptions/goamz.v1/testutil"
 	"gopkg.in/check.v1"
 	"testing"
 )

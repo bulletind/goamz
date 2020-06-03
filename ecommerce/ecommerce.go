@@ -3,7 +3,7 @@ package ecommerce
 import (
 	"net/http"
 
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 )
 
 // ProductAdvertising provides methods for querying the product advertising API

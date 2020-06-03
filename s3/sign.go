@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha1"
 	"encoding/base64"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"log"
 	"sort"
 	"strings"

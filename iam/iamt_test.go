@@ -1,9 +1,9 @@
 package iam_test
 
 import (
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/iam"
-	"gopkg.in/bulletind/goamz.v1/iam/iamtest"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/iam"
+	"gopkg.in/capptions/goamz.v1/iam/iamtest"
 	"gopkg.in/check.v1"
 )
 

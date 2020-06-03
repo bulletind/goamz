@@ -1,9 +1,9 @@
 package mturk_test
 
 import (
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/exp/mturk"
-	"gopkg.in/bulletind/goamz.v1/testutil"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/exp/mturk"
+	"gopkg.in/capptions/goamz.v1/testutil"
 	"gopkg.in/check.v1"
 	"net/url"
 	"testing"

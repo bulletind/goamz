@@ -3,7 +3,7 @@ package autoscaling
 import (
 	"encoding/xml"
 	"fmt"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"log"
 	"net/http"
 	"net/http/httputil"

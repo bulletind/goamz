@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/bulletind/goamz.v1/aws"
-	"gopkg.in/bulletind/goamz.v1/s3"
-	"gopkg.in/bulletind/goamz.v1/testutil"
+	"gopkg.in/capptions/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/s3"
+	"gopkg.in/capptions/goamz.v1/testutil"
 	"gopkg.in/check.v1"
 )
 

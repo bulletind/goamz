@@ -4,7 +4,7 @@ package iam
 
 import (
 	"encoding/xml"
-	"gopkg.in/bulletind/goamz.v1/aws"
+	"gopkg.in/capptions/goamz.v1/aws"
 	"net/http"
 	"net/url"
 	"strconv"

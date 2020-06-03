@@ -3,7 +3,7 @@ package dynamodb
 import (
 	"encoding/json"
 	"fmt"
-	"gopkg.in/bulletind/goamz.v1/dynamodb/dynamizer"
+	"gopkg.in/capptions/goamz.v1/dynamodb/dynamizer"
 )
 
 const (

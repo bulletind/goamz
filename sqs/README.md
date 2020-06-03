@@ -6,7 +6,7 @@ Merged from https://github.com/Mistobaan/sqs
 Installation
 ------------
 
-   go get gopkg.in/bulletind/goamz.v1/sqs
+   go get gopkg.in/capptions/goamz.v1/sqs
 
 
 Testing
